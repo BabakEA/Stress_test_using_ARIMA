@@ -15,7 +15,7 @@ Dataset Source: https://pomber.github.io/covid19/timeseries.json
 
 The Cohort report and VARIMA prediction will be added in the next version. 
 
-![Farmers Market Finder Demo](data/COVID_REPORT.gif)
+![COVID_REPORT](data/COVID_REPORT.gif)
   
 
 
